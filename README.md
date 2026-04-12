@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpeg" alt="Ecommerce Data Analytics Pipeline Banner" width="100%">
+</p>
+
 # Ecommerce Data Analytics Pipeline
 End-to-end e-commerce data analytics pipeline using Python, PostgreSQL, and Power BI to analyze delivery performance, delay rates, and business insights.
 
