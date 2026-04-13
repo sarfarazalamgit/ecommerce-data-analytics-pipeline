@@ -195,17 +195,16 @@ ecommerce_revenue_analysis/
 ## 📸 Dashboard Preview
 
 ### 📊 Overview Dashboard
-![Overview](assets/overview.png)
-
-### 🚚 Delivery Performance Analysis
-![Delivery Performance](assets/delivery_metrics.png)
+![Overview](assets/overview.PNG)
 
 ### 📦 Product Category Insights
-![Category Insights](assets/product_performance.png)
+![Category Insights](assets/product_performance.PNG)
 
 ### 🌍 Customer Analysis
-![State Analysis](assets/customer_analysis.png)
+![State Analysis](assets/customer_analysis.PNG)
 
+### 🚚 Delivery Performance Analysis
+![Delivery Performance](assets/delivery_metrics.PNG)
 ---
 
 * KPI cards (delay rate, avg delivery time)
