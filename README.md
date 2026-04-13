@@ -190,6 +190,24 @@ ecommerce_revenue_analysis/
 
 ## 📊 Power BI Dashboard Features
 
+---
+
+## 📸 Dashboard Preview
+
+### 📊 Overview Dashboard
+![Overview](assets/overview.png)
+
+### 🚚 Delivery Performance Analysis
+![Delivery Performance](assets/delivery_metrics.png)
+
+### 📦 Product Category Insights
+![Category Insights](assets/product_performance.png)
+
+### 🌍 Customer Analysis
+![State Analysis](assets/customer_analysis.png)
+
+---
+
 * KPI cards (delay rate, avg delivery time)
 * Category-wise performance analysis
 * State-wise geographic insights
